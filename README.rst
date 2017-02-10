@@ -1,11 +1,11 @@
 FreeDiscovery
 =============
 
-.. image:: https://travis-ci.org/FreeDiscovery/FreeDiscovery.svg?branch=master
+.. image:: https://travis-ci.org/FreeDiscovery/FreeDiscovery.svg?branch=0.8.X
     :target: https://travis-ci.org/FreeDiscovery/FreeDiscovery
 
-.. image:: https://ci.appveyor.com/api/projects/status/w5kjscmqlrlehp5t/branch/master?svg=true
-    :target: https://ci.appveyor.com/project/FreeDiscovery/freediscovery/branch/master
+.. image:: https://ci.appveyor.com/api/projects/status/w5kjscmqlrlehp5t/branch/0.8.X?svg=true
+    :target: https://ci.appveyor.com/project/FreeDiscovery/freediscovery/branch/0.8.X
 
 
 Open Source Software for E-Discovery and Information Retrieval
